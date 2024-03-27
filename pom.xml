@@ -10,6 +10,7 @@
     <modules>
         <module>skywalking-agent</module>
         <module>skywalking-test</module>
+        <module>skywalking-spring-boot-http</module>
     </modules>
     <packaging>pom</packaging>
 
